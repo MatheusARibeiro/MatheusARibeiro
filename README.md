@@ -1,10 +1,8 @@
 # Prazer, meu nome é Matheus de Andrade Ribeiro.
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusandraderibeiro&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandraderibeiro&layout=compact" />
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusARibeiro&show_icons=true&theme=radical" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusARibeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
