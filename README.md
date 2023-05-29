@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=header"/>
+
 # Prazer, meu nome é Matheus de Andrade Ribeiro.
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,3 +33,4 @@
   ![Snake animation](https://github.com/MatheusARibeiro/MatheusARibeiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=footer"/>
