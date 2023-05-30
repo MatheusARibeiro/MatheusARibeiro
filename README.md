@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFB6&height=120&section=header"/>
 
-# Prazer, meu nome é Matheus de Andrade Ribeiro.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFB6&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+none+é+Matheus+de+Andrade+Ribeiro+:%29)](https://git.io/typing-svg)
+
+---
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusARibeiro&show_icons=true&theme=radical" />
@@ -33,4 +36,4 @@
   ![Snake animation](https://github.com/MatheusARibeiro/MatheusARibeiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFB6&height=120&section=footer"/>
